@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore.Tests\\BikeStore.Tests.csproj": {}
+    "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore.Tests/BikeStore.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore.Tests\\BikeStore.Tests.csproj": {
+    "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore.Tests/BikeStore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore.Tests\\BikeStore.Tests.csproj",
+        "projectUniqueName": "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore.Tests/BikeStore.Tests.csproj",
         "projectName": "BikeStore.Tests",
-        "projectPath": "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore.Tests\\BikeStore.Tests.csproj",
-        "packagesPath": "C:\\Users\\tomec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore.Tests\\obj\\",
+        "projectPath": "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore.Tests/BikeStore.Tests.csproj",
+        "packagesPath": "/Users/sebastiansukiennik/.nuget/packages/",
+        "outputPath": "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tomec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sebastiansukiennik/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore\\BikeStore.csproj": {
-                "projectPath": "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore\\BikeStore.csproj"
+              "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore/BikeStore.csproj": {
+                "projectPath": "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore/BikeStore.csproj"
               }
             }
           }
@@ -84,28 +82,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore\\BikeStore.csproj": {
+    "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore/BikeStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore\\BikeStore.csproj",
+        "projectUniqueName": "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore/BikeStore.csproj",
         "projectName": "BikeStore",
-        "projectPath": "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore\\BikeStore.csproj",
-        "packagesPath": "C:\\Users\\tomec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore\\obj\\",
+        "projectPath": "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore/BikeStore.csproj",
+        "packagesPath": "/Users/sebastiansukiennik/.nuget/packages/",
+        "outputPath": "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tomec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sebastiansukiennik/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -153,7 +149,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }

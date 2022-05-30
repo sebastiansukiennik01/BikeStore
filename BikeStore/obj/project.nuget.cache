@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "LnF58/Xh54XO3XBtByA1mtvjiAEuPd7KZ5oXIk6Q+F0qgOhQb78kFKC6z8VJC3vVQ4AKPY6XqB5LZSvXKXyE/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\tomec\\source\\repos\\BikeSln\\BikeStore\\BikeStore.csproj",
@@ -68,5 +69,11 @@
     "C:\\Users\\tomec\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
     "C:\\Users\\tomec\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "2V+iRPIbk/D9+D5bAG/y/RAZcG8FB4mFK3yUqlbhJn01wsLSh3Aeb1ko7lhWlqpEd7tTkztKJ+K5iH4gzBh5eQ==",
+  "success": true,
+  "projectFilePath": "/Users/sebastiansukiennik/Desktop/TIprojekt/BikeStore/BikeStore/BikeStore.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> f753ee9 (inital run)
   "logs": []
 }
