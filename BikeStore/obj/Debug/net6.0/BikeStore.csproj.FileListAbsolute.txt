@@ -1,0 +1,8 @@
+C:\Users\tomec\source\repos\BikeSln\BikeStore\obj\Debug\net6.0\BikeStore.csproj.AssemblyReference.cache
+C:\Users\tomec\source\repos\BikeSln\BikeStore\obj\Debug\net6.0\BikeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomec\source\repos\BikeSln\BikeStore\obj\Debug\net6.0\BikeStore.AssemblyInfoInputs.cache
+C:\Users\tomec\source\repos\BikeSln\BikeStore\obj\Debug\net6.0\BikeStore.AssemblyInfo.cs
+C:\Users\tomec\source\repos\BikeSln\BikeStore\obj\Debug\net6.0\BikeStore.csproj.CoreCompileInputs.cache
+C:\Users\tomec\source\repos\BikeSln\BikeStore\obj\Debug\net6.0\BikeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tomec\source\repos\BikeSln\BikeStore\obj\Debug\net6.0\BikeStore.RazorAssemblyInfo.cache
+C:\Users\tomec\source\repos\BikeSln\BikeStore\obj\Debug\net6.0\BikeStore.RazorAssemblyInfo.cs
